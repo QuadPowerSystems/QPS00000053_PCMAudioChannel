@@ -1,0 +1,10 @@
+main.c:14744:5:main	8	static
+main.c:14794:6:SystemClock_Config	104	static
+main.c:14846:13:MX_I2C1_Init	8	static
+main.c:14880:13:MX_I2S3_Init	8	static
+main.c:14914:13:MX_SPI1_Init	8	static
+main.c:14952:13:MX_TIM2_Init	48	static
+main.c:15001:13:MX_GPIO_Init	56	static
+main.c:15090:6:HAL_TIM_PWM_PulseFinishedCallback	24	static
+main.c:15111:6:startPlayback	16	static
+main.c:15131:6:Error_Handler	4	static,ignoring_inline_asm
